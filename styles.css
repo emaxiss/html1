@@ -1,4 +1,12 @@
 body {
     background: darkblue;
+}
 
+h1 {
+    background: red;
+    color: aquamarine;
+    border: 7px solid orange;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
 }
